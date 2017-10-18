@@ -55,7 +55,7 @@ hr.star-light {
 
 hr.star-light:after {
   color: white;
-  background-color: #C8102E  ; }
+  background-color: #ADD8E6  ; }
 
 hr.star-primary {
   border-color: #2C3E50; }
@@ -163,7 +163,7 @@ header.masthead {
   padding-bottom: 50px;
   text-align: center;
   color: white;
-  background: #C8102E; }
+  background: #ADD8E6; }
   header.masthead img {
     display: block;
     margin: 0 auto 20px; }
